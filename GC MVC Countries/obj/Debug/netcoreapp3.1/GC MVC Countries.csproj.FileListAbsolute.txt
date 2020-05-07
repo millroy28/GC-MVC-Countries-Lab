@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.exe
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.deps.json
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.runtimeconfig.json
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.dll
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\bin\Debug\netcoreapp3.1\GC MVC Countries.pdb
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.dll
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.pdb
+C:\Users\millr\source\repos\GC MVC Countries\GC MVC Countries\obj\Debug\netcoreapp3.1\GC MVC Countries.genruntimeconfig.cache
